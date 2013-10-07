@@ -36,4 +36,10 @@ public class VectorTest {
         assertThat(vectorTwo.Length(), is(5d));
 
     }
+
+    @Test
+    public void shouldReturnDotProduct() throws Exception {
+        assertThat(vectorOne.dot(vectorTwo), is(11f));
+
+    }
 }
