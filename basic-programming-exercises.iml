@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2d-vector/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2d-vector/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/markov-chain-text-generator/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/markov-chain-text-generator/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
